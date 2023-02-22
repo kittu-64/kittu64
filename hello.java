@@ -1,6 +1,6 @@
 class hello ()
 {
 
-void main ("hello world")
-
+public static void main ("hello world")
+system.out.println("fasak")
 }	
